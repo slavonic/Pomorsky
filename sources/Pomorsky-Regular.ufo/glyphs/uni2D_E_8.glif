@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2DE8" format="2">
+  <advance width="0"/>
+  <unicode hex="2DE8"/>
+  <anchor x="-176" y="560" name="_Stacking"/>
+  <anchor x="-163" y="797.7" name="Stacking"/>
+  <anchor x="-175" y="560" name="_Diacritic"/>
+  <outline>
+    <contour>
+      <point x="-216" y="685" type="line"/>
+      <point x="-216" y="685"/>
+      <point x="-239" y="629"/>
+      <point x="-273" y="608" type="curve" smooth="yes"/>
+      <point x="-289" y="598"/>
+      <point x="-307" y="592"/>
+      <point x="-324" y="592" type="curve" smooth="yes"/>
+      <point x="-344" y="592"/>
+      <point x="-362" y="601"/>
+      <point x="-371" y="622" type="curve" smooth="yes"/>
+      <point x="-373" y="626"/>
+      <point x="-373" y="629"/>
+      <point x="-373" y="633" type="curve" smooth="yes"/>
+      <point x="-373" y="651"/>
+      <point x="-357" y="668"/>
+      <point x="-343" y="668" type="curve" smooth="yes"/>
+      <point x="-337" y="668"/>
+      <point x="-332" y="665"/>
+      <point x="-328" y="659" type="curve" smooth="yes"/>
+      <point x="-324" y="653"/>
+      <point x="-323" y="647"/>
+      <point x="-323" y="643" type="curve" smooth="yes"/>
+      <point x="-323" y="624"/>
+      <point x="-350" y="622"/>
+      <point x="-350" y="622" type="curve"/>
+      <point x="-345" y="613"/>
+      <point x="-337" y="610"/>
+      <point x="-327" y="610" type="curve" smooth="yes"/>
+      <point x="-308" y="610"/>
+      <point x="-283" y="626"/>
+      <point x="-268" y="644" type="curve" smooth="yes"/>
+      <point x="-248" y="668"/>
+      <point x="-231" y="690"/>
+      <point x="-218" y="753" type="curve"/>
+      <point x="-172" y="635" type="line"/>
+      <point x="-103" y="750" type="line"/>
+      <point x="-33" y="586" type="line"/>
+      <point x="-60" y="586" type="line"/>
+      <point x="-109" y="701" type="line"/>
+      <point x="-176" y="587" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>592</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>624</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-373</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

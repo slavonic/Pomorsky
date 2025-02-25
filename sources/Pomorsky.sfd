@@ -21,7 +21,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1304750996
-ModificationTime: 1740498166
+ModificationTime: 1740502232
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -68,7 +68,7 @@ KernClass2: 31 28 "'kern' Horizontal Kerning lookup 2-1"
  60 uni0405 uni046E uni0405.simple uni0417.simple uni046E.simple
  122 uni0406 uni040D uni0418 uni0419 uni041D uni041F uni0406.simple uni0418.simple uni0419.simple uni041D.simple uni041F.simple
  22 uni0407 uni0407.simple
- 71 uni040C Ka uni042A uni0462 uni0416.simple uni041A.simple uni0462.simple
+ 76 uni040C uni041A uni042A uni0462 uni0416.simple uni041A.simple uni0462.simple
  61 uni040E uni0423 uni0478 uniA64A uni0423.simple uni0478.simple
  183 uni0410 uni041B uni041C uni0427 uni0428 uni0429 uni042B uniA656 uni0410.simple uni041B.simple uni041C.simple uni0427.simple uni0428.simple uni0429.simple uni042B.simple uniA656.simple
  22 uni0411 uni0411.simple
@@ -78,7 +78,7 @@ KernClass2: 31 28 "'kern' Horizontal Kerning lookup 2-1"
  7 uni0416
  7 uni0417
  23 uni041E uni042E uni0472
- 30 Er uni0420.alt2 uni0420.simple
+ 35 uni0420 uni0420.alt2 uni0420.simple
  22 uni0424 uni0424.simple
  22 uni0425 uni0425.simple
  22 uni042C uni042A.simple
@@ -94,7 +94,7 @@ KernClass2: 31 28 "'kern' Horizontal Kerning lookup 2-1"
  29 uni0460.simple uni047E.simple
  14 uni0472.simple
  29 uni047C.simple uniA64C.simple
- 220 uni0400 uni0401 uni0404 uni0406 uni0407 uni040C uni040D uni0411 uni0412 uni0413 uni0415 uni0418 uni0419 Ka uni041D uni041E uni041F Er uni0421 uni042E uni0478 uniA656 uniA656.alt uni041A.alt1 uni047C.simple uniA64C.simple
+ 222 uni0400 uni0401 uni0404 uni0406 uni0407 uni040C uni040D uni0411 uni0412 uni0413 uni0415 uni0418 uni0419 uni041A uni041D uni041E uni041F uni0421 uni042E uni0478 uniA656 uniA656.alt uni041A.alt1 uni047C.simple uniA64C.simple
  22 uni0405 uni0405.simple
  23 uni040E uni0423 uniA64A
  19 uni0410 uni0410.alt
@@ -920,7 +920,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 9
+WinInfo: 54 27 9
 BeginPrivate: 8
 BlueValues 23 [-11 0 550 561 770 781]
 BlueScale 8 0.039625
@@ -17842,7 +17842,7 @@ SplineSet
 EndSplineSet
 Validated: 1
 LCarets2: 1 0
-Ligature2: "'ccmp' Canonical Compositions-1" Ka uni0301
+Ligature2: "'ccmp' Canonical Compositions-1" uni041A uni0301
 EndChar
 
 StartChar: uni040D
